@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_shake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shake",
+  "parent":{
+    "name":"Functional",
+    "path":"folders/Scripts/Functional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

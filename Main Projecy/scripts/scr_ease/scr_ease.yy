@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_ease",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ease",
+  "parent":{
+    "name":"Functional",
+    "path":"folders/Scripts/Functional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

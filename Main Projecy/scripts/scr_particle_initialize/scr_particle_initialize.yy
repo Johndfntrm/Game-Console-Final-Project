@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_particle_initialize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_particle_initialize",
+  "parent":{
+    "name":"Functional",
+    "path":"folders/Scripts/Functional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_room_warp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_room_warp",
+  "parent":{
+    "name":"Functional",
+    "path":"folders/Scripts/Functional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

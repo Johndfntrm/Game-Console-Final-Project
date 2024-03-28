@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_outside_room",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_outside_room",
+  "parent":{
+    "name":"Functional",
+    "path":"folders/Scripts/Functional.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
